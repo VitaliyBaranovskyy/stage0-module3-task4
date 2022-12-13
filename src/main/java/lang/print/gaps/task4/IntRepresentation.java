@@ -3,7 +3,7 @@ package lang.print.gaps.task4;
 public class IntRepresentation {
     public static void main(String[] args) {
         char c = 'c';
-        int c1=c;
+        int c1 = c ;
         char h = 'h';
         int h1 = h;
         char a = 'a';
